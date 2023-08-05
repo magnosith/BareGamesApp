@@ -540,6 +540,7 @@
 				DEVELOPMENT_TEAM = X6BCZG26RH;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "bare-games/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Baré Games";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -568,6 +569,7 @@
 				DEVELOPMENT_TEAM = X6BCZG26RH;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "bare-games/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Baré Games";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
